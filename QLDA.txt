@@ -40,4 +40,8 @@ duc1_9:32
 
 duc2_9:33
 vanh
-vanhhhh
+  <<<<<<< vanhkieu
+  vanhhhh
+  =======
+  ducabc
+  >>>>>>> main
